@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+/* header start */
+header {
+    width: 100%;
+    height: 100vh;
+    background: #FFFFFF;
+}
+
+header .mylink li a {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #69B9FF;
+    margin-left: 30px;
+}
+
+header .navbtn .headerhome {
+    color: #0082F3;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+
+header .navbtn .headercontact {
+    margin-right: 60px;
+    font-size: 20px;
+}
+
+header .myArticle {
+    width: 100%;
+    height: 100vh;
+    background: url('img/IMAGE\ \(38\).png') no-repeat center center/ cover;
+}
+header article {
+    text-align: center;
+    margin-top: 180px;
+}
+
+header article h3 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 59px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 90px;
+}
+
+header article .signup {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background: #69B9FF;
+    border-radius: 4px;
+    margin-right: 20px;
+    border: none;
+    color: #FFFFFF;
+}
+
+header article button {
+    height: 45px;
+    width: 138px;
+    border-radius: 4px;
+}
+
+header article .learn {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: none;
+    border: 1px solid #FFFFFF;
+}
+
+header footer .what h2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #676770;
+    margin-top: 80px;
+}
+
+header footer .what strong {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #8E8E9C;
+}
+
+header footer img {
+    box-sizing: border-box;
+    margin: auto;
+    background: #69B9FF;
+    border: 10px solid #FFFFFF;
+    box-shadow: 0px 0px 0px #2E9DFF;
+}
+
+header footer .card {
+    margin: auto;
+    height: 291px;
+    width: 300px;
+    left: 0px;
+    top: 0px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+header footer h3 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+    color: #676770;
+}
+
+header footer p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+    color: #6A859C;
+}
+
+/* header end */
